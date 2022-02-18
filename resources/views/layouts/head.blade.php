@@ -12,18 +12,18 @@
 <meta name="generator" content="Themefisher Constra HTML Template v1.0">
 
 <!-- Favicon -->
-<link rel="shortcut icon" type="image/x-icon" href="./assets/images/favicon.png" />
+<link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.png" />
 
 <!-- Themefisher Icon font -->
-<link rel="stylesheet" href="./assets/plugins/themefisher-font/style.css">
+<link rel="stylesheet" href="assets/plugins/themefisher-font/style.css">
 <!-- bootstrap.min css -->
-<link rel="stylesheet" href="./assets/plugins/bootstrap/css/bootstrap.min.css">
+<link rel="stylesheet" href="assets/plugins/bootstrap/css/bootstrap.min.css">
 
 <!-- Animate css -->
-<link rel="stylesheet" href="./assets/plugins/animate/animate.css">
+<link rel="stylesheet" href="assets/plugins/animate/animate.css">
 <!-- Slick Carousel -->
-<link rel="stylesheet" href="./assets/plugins/slick/slick.css">
-<link rel="stylesheet" href="./assets/plugins/slick/slick-theme.css">
+<link rel="stylesheet" href="assets/plugins/slick/slick.css">
+<link rel="stylesheet" href="assets/plugins/slick/slick-theme.css">
 
 <!-- Main Stylesheet -->
-<link rel="stylesheet" href="./assets/css/style.css">
+<link rel="stylesheet" href="assets/css/style.css">

@@ -17,5 +17,5 @@ use Illuminate\Support\Facades\Route;
 
 Route::prefix('/')->group(function (){
     Route::get('/',[PostController::class,'index'])->name('blog');
-    Route::get('blog-detail',[PostController::class,'detail'])->name('blog-detail');
+    Route::get('blog-detail/{id}',[PostController::class,'detail'])->name('blog-detail');
 });
